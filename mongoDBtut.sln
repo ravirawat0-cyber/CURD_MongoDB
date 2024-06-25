@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mongoDBtut", "mongoDBtut\mongoDBtut.csproj", "{FBD74D44-9DA5-42D8-A1FE-C0C7C46A4BA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBD74D44-9DA5-42D8-A1FE-C0C7C46A4BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD74D44-9DA5-42D8-A1FE-C0C7C46A4BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD74D44-9DA5-42D8-A1FE-C0C7C46A4BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD74D44-9DA5-42D8-A1FE-C0C7C46A4BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DADCE0D1-A0EF-4A7D-BF7D-0075CD82B2DF}
+	EndGlobalSection
+EndGlobal
